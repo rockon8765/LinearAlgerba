@@ -1,5 +1,5 @@
 from random import randint
-
+123
 
 def play():
     random_int=randint(0,100)
