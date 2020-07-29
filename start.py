@@ -1,6 +1,4 @@
 from random import randint
-49684916516
-165416
 
 def play():
     random_int=randint(0,100)
